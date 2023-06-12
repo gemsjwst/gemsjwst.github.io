@@ -1,2 +1,2 @@
-# gemsjws.github.io
+# gemsjwst.github.io
 GEMS JWST website
