@@ -49,12 +49,16 @@
   .content {
     background-color: white;
     padding: 10px;
+    height: 1200px;
     border: 2px solid #ddd;
   }
 
   /* Content */
   .avatar {
     border-radius: 100%;
+    object-fit: cover;
+    width: 310px;
+    height: 310px;
   }
   
   /* The "show" class is added to the filtered elements */
