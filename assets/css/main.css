@@ -2668,7 +2668,8 @@ input, select, textarea {
 		/* Header */
 
 			#header {
-				background-attachment: scroll;
+				background-attachment: fixed;
+				/*background-attachment: scroll; */
 			}
 
 				#header .inner {
