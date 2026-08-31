@@ -91,3 +91,9 @@
     background-color: #666;
      color: white;
   }
+
+  /* Ensure URLS wrap */
+  .wrap-url {
+    overflow-wrap: break-word; /* Modern standard */
+    word-break: break-word;    /* For older browser compatibility */
+  }
